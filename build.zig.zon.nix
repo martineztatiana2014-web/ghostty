@@ -206,11 +206,11 @@ in
       };
     }
     {
-      name = "N-V-__8AAGZkBACH0haGC9R-hfNPYWxu16hr-ydEsolad9GV";
+      name = "N-V-__8AAEFmBABuDGOKxAI6VMg41b9euMZ-z7HS9EcUdaor";
       path = fetchZigArtifact {
         name = "iterm2_themes";
-        url = "https://deps.files.ghostty.org/ghostty-themes-release-20260824-153547-75c93ee.tgz";
-        hash = "sha256-sf0fMQV/l8EnTbA8bORJYIN6GkH1InXLxkruLm40654=";
+        url = "https://deps.files.ghostty.org/ghostty-themes-release-20260831-151010-752a9c0.tgz";
+        hash = "sha256-g2U+uDe661v8fVDJG31EdyeW4IwcJDE04Rxe32yNFcU=";
         unpack = false;
       };
     }
